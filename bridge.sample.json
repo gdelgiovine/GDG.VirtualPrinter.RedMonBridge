@@ -1,0 +1,14 @@
+{
+  "executablePath": "C:\\Path\\To\\YourRedMonCompatibleProgram.exe",
+  "arguments": "",
+  "workingDirectory": "",
+  "jobsDirectory": "C:\\ProgramData\\GDG\\VirtualPrinter\\Jobs",
+  "keepOxps": true,
+  "outputFormat": "Xps",
+  "runAsMode": "CurrentUser",
+  "runAsUser": "",
+  "credentialTarget": "GDG.VirtualPrinter.RunAs",
+  "redMonPort": "GDGVP1:",
+  "redMonPrinter": "GDG Virtual Printer",
+  "redMonOutputPrinter": ""
+}
